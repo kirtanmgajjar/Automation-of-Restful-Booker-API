@@ -1,0 +1,8 @@
+firstname,lastname,totalprice,depositpaid,checkindate,checkoutdate,additionalneeds
+,Doe,456,True,2024-03-19,2024-03-25,Breakfast
+Jane,,789,False,2024-03-20,2024-03-28,Breakfast
+Alice,Smith,,True,2024-03-21,2024-03-30,Dinner
+Tony,Stark,123,,2024-03-22,2024-03-31,Breakfast
+Steve,Rogers,567,True,,2024-03-26,Lunch
+Bob,Johnson,888,True,2024-03-24,,Dinner
+Wade,Wilson,321,True,2024-03-25,2024-04-01,

@@ -1,0 +1,8 @@
+id,firstname,lastname,totalprice,depositpaid,checkindate,checkoutdate,additionalneeds
+2707,,Doe,456,True,2024-03-19,2024-03-25,Breakfast
+2707,Jane,,789,False,2024-03-20,2024-03-28,Breakfast
+2707,Alice,Smith,,True,2024-03-21,2024-03-30,Dinner
+2707,Tony,Stark,123,,2024-03-22,2024-03-31,Breakfast
+2707,Steve,Rogers,567,True,,2024-03-26,Lunch
+2707,Bob,Johnson,888,True,2024-03-24,,Dinner
+2707,Wade,Wilson,321,True,2024-03-25,2024-04-01,

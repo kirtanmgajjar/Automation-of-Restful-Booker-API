@@ -1,0 +1,3 @@
+*** Test Cases ***;${firstname};${lastname};${totalprice};${depositpaid};${checkindate};${checkoutdate};${additionalneeds};[Tags];[Documentation]
+data1;Bruce;Wayne;123;True;2024-06-22;2024-07-01;Breakfast;;
+data2;Clark;Kent;567;False;2024-08-26;2024-08-31;Lunch;;
